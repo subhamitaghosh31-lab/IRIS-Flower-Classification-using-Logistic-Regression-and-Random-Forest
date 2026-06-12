@@ -20,8 +20,7 @@ The Iris dataset is loaded from the Scikit-learn library and contains:
 - Scikit-learn
 
 # Results
-Both models achieved high classification accuracy, with Random Forest performing slightly better.
-
+Both models achieved high classification accuracy.
 # Author
 Subhamita Ghosh 
 B.Sc. Statistics, St. Xavier's College (Autonomous), Kolkata
